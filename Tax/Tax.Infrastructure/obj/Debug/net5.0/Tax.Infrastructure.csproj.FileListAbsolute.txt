@@ -1,0 +1,11 @@
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\bin\Debug\net5.0\Tax.Infrastructure.deps.json
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\bin\Debug\net5.0\Tax.Infrastructure.dll
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\bin\Debug\net5.0\ref\Tax.Infrastructure.dll
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\bin\Debug\net5.0\Tax.Infrastructure.pdb
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\obj\Debug\net5.0\Tax.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\obj\Debug\net5.0\Tax.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\obj\Debug\net5.0\Tax.Infrastructure.AssemblyInfo.cs
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\obj\Debug\net5.0\Tax.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\obj\Debug\net5.0\Tax.Infrastructure.dll
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\obj\Debug\net5.0\ref\Tax.Infrastructure.dll
+C:\Users\AMachadoLopesM\Desktop\Tax\Tax.Infrastructure\obj\Debug\net5.0\Tax.Infrastructure.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hB9rT27rlXj2TPm9nCy8p+l9p8rTFkJx6eM+lt4TgUYEyd3ONzGJ0wU93+NC2f4LjUNWSMVSL9VUQUbht1ipDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMachadoLopesM\\Desktop\\Tax\\Tax.Infrastructure\\Tax.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMachadoLopesM\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
